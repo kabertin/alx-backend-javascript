@@ -1,1 +1,1 @@
-This is all about ES6
+All about ES6
